@@ -8,3 +8,4 @@ sv("hasPilot",true)
 sv("hasSwat",true)
 sv("hasMerc",true)
 sv("hasSpecOps",true)
+-- doesn't destroy map, literally just gives you the access to all of the guns
