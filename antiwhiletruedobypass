@@ -1,0 +1,5 @@
+-- an exploit for a shitty pool game rebranded!
+for i,v in pairs(getnilinstances())do if v.Name=="EventHandlerClient"then ev=v end end 
+game.RunService.Stepped:Connect(function()
+-- script goes here
+end)
